@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manoj Teltumbade, PhD
-- 👀 I’m interested in applying AI/ML in healthcare
-- 🌱 I’m currently working on survival analysis and learning AWS architecture
+- 👀 I’m interested in applying AI/ML in healthcare, pharma and life sciences
+- 🌱 I’m currently working on computational approaches to drug discovery 
 - 💞️ I’m looking to collaborate on Genomics data analysis
 - 📫 How to reach me 🐦 [@ManuTeltumbade](https://twitter.com/ManuTeltumbade)
 
