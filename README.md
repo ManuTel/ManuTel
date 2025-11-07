@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manoj Teltumbade, PhD
 - 👀 I’m interested in applying AI/ML in healthcare, pharma and life sciences
-- 🌱 I’m currently working on computational approaches to drug discovery 
+- 🌱 I’m currently working on PKPD simulations, Budget Impact models, Cost-effectiveness Analysis 
 - 💞️ I’m looking to collaborate on Genomics data analysis
 - 📫 How to reach me 🐦 [@ManuTeltumbade](https://twitter.com/ManuTeltumbade)
 
